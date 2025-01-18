@@ -1,11 +1,8 @@
-# Node modules
-backend/node_modules
-frontend/node_modules
-
-# Environment files
-backend/.env
-frontend/.env
+# dependencies
+node_modules/
+frontend/node_modules/
+backend/node_modules/
 
 # Build and log files
-backend/logs
-frontend/build
+frontend/build/
+backend/build/
