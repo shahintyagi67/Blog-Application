@@ -1,3 +1,11 @@
-node_modules/
-.env
-.vscode/
+# Node modules
+backend/node_modules
+frontend/node_modules
+
+# Environment files
+backend/.env
+frontend/.env
+
+# Build and log files
+backend/logs
+frontend/build
